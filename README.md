@@ -1,5 +1,8 @@
 # NodeExcercises
 
 ### Run
-`cd` to excercise directory, *e.g, Q1/*
+`cd` to exercise directory, *e.g, Q1/*
 run `node answer.js`
+
+#### Q1:Special notice
+Type `done` into the terminal on finishing 
